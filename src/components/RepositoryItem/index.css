@@ -1,0 +1,33 @@
+.repoList-details {
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 25%;
+}
+.avatarImage {
+  width: 150px;
+}
+.repo-name {
+  color: #e73959;
+  font-family: 'Roboto';
+  font-size: 24px;
+}
+.details-container {
+  display: flex;
+  align-items: center;
+}
+.icons {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.repoCountDetails {
+  font-family: 'Lobster';
+  font-size: 16px;
+  color: #1e293b;
+  font-weight: Bold;
+}

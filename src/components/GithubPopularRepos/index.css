@@ -1,0 +1,27 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px;
+}
+.heading {
+  font-family: 'Lobster';
+  font-size: 32px;
+  color: #323f4b;
+  font-weight: bold;
+}
+.unorderedRepoLists {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  list-style-type: none;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+.failurePic {
+  width: 60%;
+}
